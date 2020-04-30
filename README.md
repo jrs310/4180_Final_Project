@@ -100,7 +100,7 @@ if __name__ == '__main__':
 
 ## Built With
 
-* [Dropwizard](opencv.org) - Used to decode QR codes
+* [OpenCV](opencv.org) - Used to decode QR codes
 * [Zbar](https://pypi.org/project/zbar/) - Barcode scanning
 * [ROME](https://www.raspberrypi.org/) - Used as our micro controller
 
